@@ -1666,14 +1666,14 @@ section,
 .popup-content button {
   padding: 8px 16px;
   border: none;
-  background: #007bff;
+  background: #00070f;
   color: white;
   border-radius: 6px;
   cursor: pointer;
 }
 
 .popup-content button:hover {
-  background: #0056b3;
+  background: #000000;
 }
 
 @keyframes fadeIn {
